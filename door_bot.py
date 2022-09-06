@@ -357,7 +357,7 @@ def start(update: Update, context: CallbackContext):
 
 def main():
 	updater = Updater(
-		token = '1849237368:AAEOGJIOxI3u2sT3IbNRrKiTUnE8TjKmFLs',
+		token = 'TOKEN',
 		use_context = True
 	)
 
